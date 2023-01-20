@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "phone": "+1 555 555 5555",
+        "email": "johndoe@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "phone": "+1 555 555 5556",
+        "email": "janesmith@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Robert Johnson",
+        "phone": "+1 555 555 5557",
+        "email": "rjohnson@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Michael Brown",
+        "phone": "+1 555 555 5558",
+        "email": "mbrown@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Emily Davis",
+        "phone": "+1 555 555 5559",
+        "email": "edavis@example.com"
+    }
+]
